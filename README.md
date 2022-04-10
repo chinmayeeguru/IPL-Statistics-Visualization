@@ -3,7 +3,7 @@
 We have IPL match related data including ball-by-ball information from season 2008  to 2017. The objective of this presentation is to highlight some of the important statistics  related to match, players and teams of IPL over the years using the data at hand. 
 
 
-# Match Statistics
+## Match Statistics
 
 
 ![image](https://user-images.githubusercontent.com/103338455/162637688-c9c71c09-7271-4931-abcc-a4571be50a96.png)
@@ -34,7 +34,7 @@ We have IPL match related data including ball-by-ball information from season 20
 - RCB holds 4 positions in the top 10 list of highest runs across season. It implies RCB’s great potential of batting scores.
 
 
-# Player Statistics
+## Player Statistics
 
 
 
@@ -62,7 +62,7 @@ We have IPL match related data including ball-by-ball information from season 20
 
 - CH Gayle from RCB team scored the maximum 52 number of sixes in the season 2013.
 
-# Team Statistics
+## Team Statistics
 
 
 ![image](https://user-images.githubusercontent.com/103338455/162637933-3a6d78f0-4436-4a7f-b1d0-efac47b27f92.png)
@@ -75,7 +75,7 @@ We have IPL match related data including ball-by-ball information from season 20
 - In 2013, RCB had a higher win percentage of 86.7% for matches played in home ground as compared to 28.5% for matches played in grounds away from home.
 
 
-# Summary
+## Summary
 
 ![image](https://user-images.githubusercontent.com/103338455/162637998-e3148113-a812-4d1a-aa18-b48599313f9a.png)
 
@@ -84,7 +84,7 @@ We have IPL match related data including ball-by-ball information from season 20
 ![image](https://user-images.githubusercontent.com/103338455/162638008-3efc46e8-a151-4a2f-bdeb-df05455d3a22.png)
 
 
-# Conclusion
+## Conclusion
 
 With the help of these visualisations one can draw important insights from the past data and utilise those inferences to take informative decision.  They can also be useful in increasing efficiency  as one could retrospect their action and results in the past.
 
